@@ -28,3 +28,5 @@ In terms of length, there isn't a set requirement. That said, it'd be hard to do
 ## How to Blog
 
 If you already have a blog for work related topics, feel free just to add your posts to that. If you have a personal blog, you might want to set up a separate "work" blog. It's not required, but do consider that employers will probably look at multiple posts from any blog you share, so if you mix personal and business postings, make sure they're equally high quality and would reflect well on you when being considered for a job. Finally, if you've never blogged before, not to worry! Pick your favorite blogging site/software and start blogging. Don't worry too much about which platform you pick - just pick something and focus on writing great content.
+
+## DONE!
